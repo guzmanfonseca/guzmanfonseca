@@ -1,0 +1,115 @@
+CHAPTER VI. ELECTRONIC REVERSE AUCTIONS
+Article 53. Electronic reverse auction as a stand-alone method
+of procurement
+
+1. The procuring entity shall solicit bids by causing an invitation to the electronic
+reverse auction to be published in accordance with article 33 of this Law. The invitation shall include:
+(a) The name and address of the procuring entity;
+(b) A detailed description of the subject matter of the procurement, in conformity with article 10 of this Law, and the desired or required time and location for the provision of such subject matter;
+(c) The terms and conditions of the procurement contract, to the extent they are already known to the procuring entity, and the form of the contract, if any, to be signed by the parties;
+(d) A declaration pursuant to article 8 of this Law;
+(e) The criteria and procedures to be used for ascertaining the qualifications of suppliers or contractors and any documentary evidence or other information that must be presented by suppliers or contractors to demonstrate their qualifications in conformity with article 9 of this Law;
+(f) The criteria and procedure for examining bids against the description of the subject matter of the procurement;
+(g) The criteria and procedure for evaluating bids in accordance with article 11 of this Law, including any mathematical formula that will be used in the evaluation procedure during the auction;
+(h) The manner in which the bid price is to be formulated and expressed, including a statement as to whether the price is to cover elements other than the cost of the subject matter of the procurement itself, such as any applicable transportation and insurance charges, customs duties and taxes;
+(i) The currency or currencies in which the bid price is to be formulated and expressed;
+(j) The minimum number of suppliers or contractors required to register for the auction in order for the auction to be held, which shall be sufficient to ensure effective competition;
+[(k) If any limit on the number of suppliers or contractors that can be registered for the auction is imposed in accordance with paragraph 2 of this article, the relevant maximum number and the criteria and procedure, in conformity with paragraph 2 of this article, that will be followed in selecting it;]
+(l) How the auction can be accessed, including appropriate information regarding connection to the auction;
+(m) The deadline by which suppliers or contractors must register for the auction and the requirements for registration;
+(n) The date and time of the opening of the auction and the requirements for identification of bidders at the opening of the auction;
+(o) The criteria governing the closing of the auction;
+(p) Other rules for the conduct of the auction, including the information that will be made available to the bidders in the course of the auction, the language in which it will be made available and the conditions under which the bidders will be able to bid;
+(q) References to this Law, the procurement regulations and other laws and regulations directly pertinent to the procurement proceedings, including those applicable to procurement involving classified information, and the place where those laws and regulations may be found;
+(r) The means by which suppliers or contractors may seek clarification of information relating to the procurement proceedings;
+(s) The name, functional title and address of one or more officers or employees of the procuring entity who are authorized to communicate directly with and to receive communications directly from suppliers or contractors in connection with the procurement proceedings before and after the auction without the intervention of an intermediary;
+(t) Notice of the right provided under article 64 of this Law to challenge
+or appeal decisions or actions taken by the procuring entity that are allegedly
+not in compliance with the provisions of this Law, together with information
+about the duration of the applicable standstill period and, if none will apply, a
+statement to that effect and the reasons therefor;
+(u) Any formalities that will be required after the auction for a procurement
+contract to enter into force, including, where applicable, ascertainment of qualifications
+or responsiveness in accordance with article 57 of this Law and the execution of a written procurement contract pursuant to article 22 of this Law;
+(v) Any other requirements established by the procuring entity in conformity
+with this Law and the procurement regulations relating to the procurement proceedings.
+
+[2. The procuring entity may impose a maximum limit on the number of suppliers or contractors that can be registered for the electronic reverse auction only to the extent that capacity constraints in its communications system so require, and shall select the suppliers or contractors to be so registered in a non-discriminatory manner. The procuring entity shall include a statement of the reasons and circumstances upon which it relied to justify the imposition of such a maximum limit in the record required under article 25 of this Law.]
+
+3. The procuring entity may decide, in the light of the circumstances of the given procurement, that the electronic reverse auction shall be preceded by an examination or evaluation of initial bids. In such case, the invitation to the auction shall, in addition to information listed in paragraph 1 of this article, include:
+(a) An invitation to present initial bids, together with instructions for preparing initial bids;
+(b) The manner, place and deadline for presenting initial bids.
+
+4. Where the electronic reverse auction has been preceded by an examination or evaluation of initial bids, the procuring entity shall promptly after the completion of the examination or evaluation of initial bids:
+(a) Dispatch the notice of rejection and reasons for rejection to each supplier or contractor whose initial bid was rejected;
+(b) Issue an invitation to the auction to each qualified supplier or contractor whose initial bid is responsive, providing all information required to participate in the auction;
+(c) Where an evaluation of initial bids has taken place, each invitation to the auction shall also be accompanied by the outcome of the evaluation, as relevant to the supplier or contractor to which the invitation is addressed.
+
+Article 54. Electronic reverse auction as a phase preceding the award of the procurement contract
+
+1. Where an electronic reverse auction is to be used as a phase preceding the award of the procurement contract in a procurement method, as appropriate, or in a framework agreement procedure with second-stage competition, the procuring entity shall notify suppliers or contractors when first soliciting their participation in the procurement proceedings that an auction will be held, and shall provide, in addition to other information required to be included under provisions of this Law, the following information about the auction:
+(a) The mathematical formula that will be used in the evaluation procedure
+during the auction;
+(b) How the auction can be accessed, including appropriate information regarding connection to the auction.
+
+2. Before the electronic reverse auction is held, the procuring entity shall issue an invitation to the auction to all suppliers or contractors remaining in the proceedings, specifying:
+(a) The deadline by which the suppliers or contractors must register for the auction and requirements for registration;
+(b) The date and time of the opening of the auction and requirements for the identification of bidders at the opening of the auction;
+(c) Criteria governing the closing of the auction;
+(d) Other rules for the conduct of the auction, including the information that will be made available to the bidders during the auction and the conditions under which the bidders will be able to bid.
+
+3. Where an evaluation of initial bids has taken place, each invitation to the auction shall also be accompanied by the outcome of the evaluation as relevant to the supplier or contractor to which the invitation is addressed.
+
+Article 55. Registration for the electronic reverse auction and the timing of the holding of the auction
+
+1. Confirmation of registration for the electronic reverse auction shall be communicated promptly to each registered supplier or contractor.
+
+2. If the number of suppliers or contractors registered for the electronic reverse auction is insufficient to ensure effective competition, the procuring entity may cancel the auction. The cancellation of the auction shall be communicated promptly to each registered supplier or contractor.
+
+3. The period of time between the issuance of the invitation to the electronic reverse auction and the auction shall be sufficiently long to allow suppliers or contractors to prepare for the auction, taking into account the reasonable needs of the procuring entity.
+
+Article 56. Requirements during the electronic reverse auction
+
+1. The electronic reverse auction shall be based on:
+(a) Price, where the procurement contract is to be awarded to the lowest- priced bid; or
+(b) Price and other criteria specified to suppliers or contractors under articles
+53 and 54 of this Law, as applicable, where the procurement contract is to be awarded to the most advantageous bid.
+
+2. During the auction:
+(a) All bidders shall have an equal and continuous opportunity to present their bids;
+(b) There shall be automatic evaluation of all bids in accordance with the criteria, procedure and formula provided to suppliers or contractors under articles 53 and 54 of this Law, as applicable;
+(c) Each bidder must receive, instantaneously and on a continuous basis during the auction, sufficient information allowing it to determine the standing of its bid vis-à-vis other bids;
+(d) There shall be no communication between the procuring entity and the bidders or among the bidders, other than as provided for in subparagraphs (a) and (c) of this paragraph.
+
+3. The procuring entity shall not disclose the identity of any bidder during
+the auction.
+
+4. The auction shall be closed in accordance with the criteria specified to suppliers or contractors under articles 53 and 54 of this Law, as applicable.
+
+5. The procuring entity shall suspend or terminate the auction in the case of failures in its communication system that put at risk the proper conduct of the auction or for other reasons stipulated in the rules for the conduct of the auction. The procuring entity shall not disclose the identity of any bidder in the case of suspension or termination of the auction.
+
+Article 57. Requirements after the electronic reverse auction 
+
+1. The bid that at the closure of the electronic reverse auction is the lowest-priced bid or the most advantageous bid, as applicable, shall be the successful bid.
+
+2. In procurement by means of an auction that was not preceded by examination 
+or evaluation of initial bids, the procuring entity shall ascertain after
+the auction the responsiveness of the successful bid and the qualifications of
+the supplier or contractor submitting it. The procuring entity shall reject that
+bid if it is found to be unresponsive or if the supplier or contractor submitting
+it is found unqualified. Without prejudice to the right of the procuring entity
+to cancel the procurement in accordance with paragraph 1 of article 19 of this
+Law, the procuring entity shall select the bid that was the next lowest-priced
+or next most advantageous bid at the closure of the auction, provided that that
+bid is ascertained to be responsive and the supplier or contractor submitting it
+is ascertained to be qualified.
+
+3. Where the successful bid at the closure of the auction appears to the
+procuring entity to be abnormally low and gives rise to concerns on the part of
+the procuring entity as to the ability of the bidder that presented it to perform
+the procurement contract, the procuring entity may follow the procedures
+described in article 20 of this Law. If the procuring entity rejects the bid as
+abnormally low under article 20, it shall select the bid that at the closure of
+the auction was the next lowest-priced or next most advantageous bid. This
+provision is without prejudice to the right of the procuring entity to cancel the
+procurement in accordance with paragraph 1 of article 19 of this Law.

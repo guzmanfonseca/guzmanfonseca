@@ -1,0 +1,239 @@
+CHAPTER VII. FRAMEWORK AGREEMENT PROCEDURES
+Article 58. Award of a closed framework agreement
+
+1. The procuring entity shall award a closed framework agreement:
+(a) By means of open-tendering proceedings, in accordance with provisions
+of chapter III of this Law, except to the extent that those provisions are
+derogated from in this chapter; or
+(b) By means of other procurement methods, in accordance with the relevant
+provisions of chapters II, IV and V of this Law, except to the extent that
+those provisions are derogated from in this chapter.
+
+2. The provisions of this Law regulating pre-qualification and the contents
+of the solicitation in the context of the procurement methods referred to in
+paragraph 1 of this article shall apply mutatis mutandis to the information to be
+provided to suppliers or contractors when first soliciting their participation in a
+closed framework agreement procedure. The procuring entity shall in addition
+specify at that stage:
+(a) That the procurement will be conducted as a framework agreement
+procedure, leading to a closed framework agreement;
+(b) Whether the framework agreement is to be concluded with one or
+more than one supplier or contractor;
+(c) If the framework agreement will be concluded with more than one
+supplier or contractor, any minimum or maximum limit on the number of suppliers
+or contractors that will be parties thereto;
+(d) The form, terms and conditions of the framework agreement in accordance
+with article 59 of this Law.
+
+3. The provisions of article 22 of this Law shall apply mutatis mutandis to
+the award of a closed framework agreement.
+
+Article 59. Requirements for closed framework agreements
+1. A closed framework agreement shall be concluded in writing and shall set
+out:
+(a) The duration of the framework agreement, which shall not exceed the
+maximum duration established by the procurement regulations;
+(b) The description of the subject matter of the procurement and all other
+terms and conditions of the procurement established when the framework
+agreement is concluded;
+(c) To the extent that they are known, estimates of the terms and conditions
+of the procurement that cannot be established with sufficient precision
+when the framework agreement is concluded;
+(d) Whether, in a closed framework agreement concluded with more than
+one supplier or contractor, there will be a second-stage competition to award a
+procurement contract under the framework agreement and, if so:
+(i) A statement of the terms and conditions of the procurement that are
+to be established or refined through second-stage competition;
+(ii) The procedures for and the anticipated frequency of any second-stage
+competition, and envisaged deadlines for presenting second-stage
+submissions;
+(iii) The procedures and criteria to be applied during the second-stage
+competition, including the relative weight of such criteria and the
+manner in which they will be applied, in accordance with articles 10
+and 11 of this Law. If the relative weights of the evaluation criteria
+may be varied during the second-stage competition, the framework
+agreement shall specify the permissible range;
+(e) Whether the award of a procurement contract under the framework
+agreement will be to the lowest-priced or to the most advantageous submission;
+and
+(f) The manner in which the procurement contract will be awarded.
+
+2. A closed framework agreement with more than one supplier or contractor
+shall be concluded as one agreement between all parties unless:
+(a) The procuring entity determines that it is in the interests of a party to
+the framework agreement that a separate agreement with any supplier or contractor
+party be concluded;
+(b) The procuring entity includes in the record required under article 25
+of this Law a statement of the reasons and circumstances on which it relied to
+justify the conclusion of separate agreements; and
+(c) Any variation in the terms and conditions of the separate agreements
+for a given procurement is minor and concerns only those provisions that justify
+the conclusion of separate agreements.
+
+3. The framework agreement shall contain, in addition to information specified
+elsewhere in this article, all information necessary to allow the effective
+operation of the framework agreement, including information on how the agreement and
+notifications of forthcoming procurement contracts thereunder can be accessed
+and appropriate information regarding connection, where applicable.
+
+Article 60. Establishment of an open framework agreement
+1. The procuring entity shall establish and maintain an open framework
+agreement online.
+
+2. The procuring entity shall solicit participation in the open framework
+agreement by causing an invitation to become a party to the open framework
+agreement to be published following the requirements of article 33 of this Law.
+
+3. The invitation to become a party to the open framework agreement shall
+include the following information:
+(a) The name and address of the procuring entity establishing and maintaining
+the open framework agreement and the name and address of any other procuring entities that will have the right to award procurement contracts under the framework agreement;
+(b) That the procurement will be conducted as a framework agreement
+procedure leading to an open framework agreement;
+(c) The language (or languages) of the open framework agreement and all
+information about the operation of the agreement, including how the agreement
+and notifications of forthcoming procurement contracts thereunder can
+be accessed and appropriate information regarding connection;
+(d) The terms and conditions for suppliers or contractors to be admitted to
+the open framework agreement, including:
+(i) A declaration pursuant to article 8 of this Law;
+[(ii) If any maximum limit on the number of suppliers or contractors that are parties to the open framework agreement is imposed in accordance with paragraph 7 of this article, the relevant number and the criteria and procedure, in conformity with paragraph 7 of this
+article, that will be followed in selecting it;]
+(iii) Instructions for preparing and presenting the indicative submissions necessary to become a party to the open framework agreement, including the currency or currencies and the language (or languages) to be used, as well as the criteria and procedures to be used for
+ascertaining the qualifications of suppliers or contractors and any documentary evidence or other information that must be presented by suppliers or contractors to demonstrate their qualifications in conformity with article 9 of this Law;
+(iv) An explicit statement that suppliers or contractors may apply to become parties to the framework agreement at any time during the period of its operation by presenting indicative submissions, subject to any maximum limit on the number of suppliers or contractors and
+any declaration made pursuant to article 8 of this Law;
+(e) Other terms and conditions of the open framework agreement, including all information required to be set out in the open framework agreement in accordance with article 61 of this Law;
+(f) References to this Law, the procurement regulations and other laws and regulations directly pertinent to the procurement proceedings, including those applicable to procurement involving classified information, and the place where those laws and regulations may be found;
+(g) The name, functional title and address of one or more officers or employees
+of the procuring entity who are authorized to communicate directly with and to receive communications directly from suppliers or contractors in connection with the procurement proceedings without the intervention of an intermediary.
+
+4. Suppliers or contractors may apply to become a party or parties to the
+framework agreement at any time during its operation by presenting indicative
+submissions to the procuring entity in compliance with the requirements of the
+invitation to become a party to the open framework agreement.
+
+5. The procuring entity shall examine all indicative submissions received
+during the period of operation of the framework agreement within a maximum
+of … working days [the enacting State specifies the maximum period of time],
+in accordance with the procedures set out in the invitation to become a party to
+the open framework agreement.
+
+6. The framework agreement shall be concluded with all qualified suppliers
+or contractors that presented submissions unless their submissions have been
+rejected on the grounds specified in the invitation to become a party to the
+open framework agreement.
+
+[7. The procuring entity may impose a maximum limit on the number of parties
+to the open framework agreement only to the extent that capacity limitations
+in its communications system so require, and shall select the suppliers or contractors
+to be parties to the open framework agreement in a non-discriminatory manner. The procuring entity shall include in the record required under article 25 of this Law a statement of the reasons and circumstances upon which it relied to justify the imposition of such a maximum limit.]
+
+8. The procuring entity shall promptly notify the suppliers or contractors
+whether they have become parties to the framework agreement and of the reasons
+for the rejection of their indicative submissions if they have not.
+
+Article 61. Requirements for open framework agreements
+
+1. An open framework agreement shall provide for second-stage competition
+for the award of a procurement contract under the agreement and shall include:
+(a) The duration of the framework agreement;
+(b) The description of the subject matter of the procurement and all other terms and conditions of the procurement known when the open framework agreement is established;
+(c) Any terms and conditions of the procurement that may be refined
+through second-stage competition;
+(d) The procedures and the anticipated frequency of second-stage competition;
+(e) Whether the award of procurement contracts under the framework
+agreement will be to the lowest-priced or the most advantageous submission;
+(f) The procedures and criteria to be applied during the second-stage competition,
+including the relative weight of the evaluation criteria and the manner in
+which they will be applied, in accordance with articles 10 and 11 of this Law. If
+the relative weights of the evaluation criteria may be varied during second-stage
+competition, the framework agreement shall specify the permissible range.
+
+2. The procuring entity shall, during the entire period of operation of the
+open framework agreement, republish at least annually the invitation to
+become a party to the open framework agreement and shall in addition ensure
+unrestricted, direct and full access to the terms and conditions of the framework
+agreement and to any other necessary information relevant to its operation.
+
+Article 62. Second stage of a framework agreement procedure
+
+1. Any procurement contract under a framework agreement shall be awarded
+in accordance with the terms and conditions of the framework agreement and
+the provisions of this article.
+
+2. A procurement contract under a framework agreement may be awarded
+only to a supplier or contractor that is a party to the framework agreement.
+
+3. The provisions of article 22 of this Law, except for paragraph 2, shall
+apply to the acceptance of the successful submission under a framework agreement
+without second-stage competition.
+
+4. In a closed framework agreement with second-stage competition and in
+an open framework agreement, the following procedures shall apply to the
+award of a procurement contract:
+(a) The procuring entity shall issue a written invitation to present submissions,
+simultaneously to:
+(i) Each supplier or contractor party to the framework agreement; or
+(ii) Only to those suppliers or contractors parties to the framework
+agreement then capable of meeting the needs of that procuring
+entity in the subject matter of the procurement, provided that at the
+same time notice of the second-stage competition is given to all parties
+to the framework agreement so that they have the opportunity to
+participate in the second-stage competition;
+(b) The invitation to present submissions shall include the following
+information:
+(i) A restatement of the existing terms and conditions of the framework
+agreement to be included in the anticipated procurement contract, a
+statement of the terms and conditions of the procurement that are to
+be subject to second-stage competition and further detail regarding
+those terms and conditions, where necessary;
+(ii) A restatement of the procedures and criteria for the award of the
+anticipated procurement contract, including their relative weight
+and the manner of their application;
+(iii) Instructions for preparing submissions;
+(iv) The manner, place and deadline for presenting submissions;
+(v) If suppliers or contractors are permitted to present submissions for
+only a portion of the subject matter of the procurement, a description
+of the portion or portions for which submissions may be presented;
+(vi) The manner in which the submission price is to be formulated and
+expressed, including a statement as to whether the price is to cover
+elements other than the cost of the subject matter of the procurement
+itself, such as any applicable transportation and insurance
+charges, customs duties and taxes;
+(vii) Reference to this Law, the procurement regulations and other laws
+and regulations directly pertinent to the procurement proceedings,
+including those applicable to procurement involving classified information,
+and the place where those laws and regulations may be found;
+(viii) The name, functional title and address of one or more officers or
+employees of the procuring entity who are authorized to communicate
+directly with and to receive communications directly from
+suppliers or contractors in connection with the second-stage competition
+without the intervention of an intermediary;
+(ix) Notice of the right provided under article 64 of this Law to challenge
+or appeal decisions or actions taken by the procuring entity
+that are allegedly not in compliance with the provisions of this
+Law, together with information about the duration of the applicable
+standstill period and, if none will apply, a statement to that effect
+and the reasons therefor;
+(x) Any formalities that will be required once a successful submission
+has been accepted for a procurement contract to enter into force,
+including, where applicable, the execution of a written procurement
+contract pursuant to article 22 of this Law;
+(xi) Any other requirements established by the procuring entity in conformity
+with this Law and the procurement regulations relating to
+the preparation and presentation of submissions and to other aspects
+of the second-stage competition;
+(c) The procuring entity shall evaluate all submissions received and determine
+the successful submission in accordance with the evaluation criteria and
+the procedures set out in the invitation to present submissions;
+(d) The procuring entity shall accept the successful submission in accordance
+with article 22 of this Law.
+
+Article 63. Changes during the operation of a framework agreement
+During the operation of a framework agreement, no change shall be allowed
+to the description of the subject matter of the procurement. Changes to other
+terms and conditions of the procurement, including to the criteria (and their
+relative weight and the manner of their application) and procedures for the
+award of the anticipated procurement contract, may occur only to the extent
+expressly permitted in the framework agreement.
